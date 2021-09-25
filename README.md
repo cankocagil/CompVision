@@ -2,7 +2,7 @@
 
 This repo contains implementations of the CS484-555 course, namely Intro to Computer Vision. Here is the what repo contains:
 
-## HW1: 
+## HW1: Binary Image Processing
     * Grayscale & Binary Image Processing
     * Statistical Image Analysis: Histograms
     * Image Enhancement: histogram equalization
@@ -10,13 +10,13 @@ This repo contains implementations of the CS484-555 course, namely Intro to Comp
     * Morphological Operations: Dilation, Erosion, Opening, Closing, ....
     * Connected Components Labeling & Image Object Counting & Detection
 
-## HW2: 
+## HW2: Neural Networks for Image Classification 
     * Logistic Regression & Perception models for Binary Classification on RGB Images from scratch
     * Convolutional Neural Networks (CNN) using TensorFlow & Keras
     * Hyperparameter Tuning & Search 
     * Optimization
     
-## HW3:
+## HW3: Edge Detection & Hough Transform
     * Edge Detection: Sobel and Prewitt Filtering
     * Edge Detection: Thresholding & Canny Edge Detector
     * Gaussian Blur Filters & Filtering 
