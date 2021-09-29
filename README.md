@@ -1,4 +1,4 @@
-# CompVision
+# Computer Vision Applications
 
 This repo contains implementations of the CS484-555 course, namely Intro to Computer Vision. Here is the what repo contains:
 
